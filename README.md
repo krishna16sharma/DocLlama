@@ -28,7 +28,7 @@ Just upload a document, ask questions, and get answers based on the content of y
 
 ## Flow Diagram
 
-![Flow Diagram](images/DocLlama_flow.png)
+![Flow Diagram](images/docLlama_flow.png)
 
 ## Screenshots
 
